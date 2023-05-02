@@ -6,6 +6,7 @@
 * It sends an API request to the Discord API and parses the JSON response to determine if the user has blocked them or if they have blocked the user.
 
 ## 🔗 Links
+> * Requirements: • Java 11+ 
 
 > - **[Java 19](https://corretto.aws/downloads/latest/amazon-corretto-19-x64-windows-jdk.msi)**
 
