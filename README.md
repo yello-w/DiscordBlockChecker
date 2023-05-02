@@ -32,6 +32,31 @@ URL url = new URL("https://discord.com/api/v9/users/" + userId + "/profile"); //
             conn.setRequestProperty("Authorization", token); // Setting the Authorization header with the user's API token
 ```
 
+## Deployment
+
+To start this project run
+
+```bash
+  java -jar DiscordBlockChecker-v1.0.0.jar
+```
+
+> - **You can copy the jar file by [DiscordBlockChecker-v1.0.0.jar](https://github.com/Yelloow-Dev/DiscordBlockChecker/releases/download/v1.0.0/DiscordBlockChecker-v1.0.0.jar)**
+
+> - Or build the project yourself by : 
+
+> 1 - [Git](https://git-scm.com/)
+```
+git clone https://github.com/Yelloow-Dev/DiscordBlockChecker 
+```
+
+> 2 - ssh
+```
+git@github.com:Yelloow-Dev/DiscordBlockChecker.git
+```
+> 3 - URL
+```
+https://github.com/Yelloow-Dev/DiscordBlockChecker.git
+```
 
 ## Authors
 
