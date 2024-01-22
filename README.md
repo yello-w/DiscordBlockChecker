@@ -44,7 +44,7 @@ To start this project run
 
 > - Or build the project yourself by : 
 
-> 1 - [Git]
+> 1 - Git
 ```
 git clone https://github.com/Yelloow-Dev/DiscordBlockChecker 
 ```
