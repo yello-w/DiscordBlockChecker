@@ -40,22 +40,22 @@ To start this project run
   java -jar DiscordBlockChecker-v1.0.0.jar
 ```
 
-> - **You can copy the jar file by [DiscordBlockChecker-v1.0.0.jar](https://github.com/Yelloow-Dev/DiscordBlockChecker/releases/download/v1.0.0/DiscordBlockChecker-v1.0.0.jar)**
+> - **You can copy the jar file by [DiscordBlockChecker-v1.0.0.jar](https://github.com/yello-w/DiscordBlockChecker/releases/download/v1.0.0/DiscordBlockChecker-v1.0.0.jar)**
 
 > - Or build the project yourself by : 
 
 > 1 - Git
 ```
-git clone https://github.com/Yelloow-Dev/DiscordBlockChecker 
+git clone https://github.com/yello-w/DiscordBlockChecker 
 ```
 
 > 2 - ssh
 ```
-git@github.com:Yelloow-Dev/DiscordBlockChecker.git
+git@github.com:yello-w/DiscordBlockChecker.git
 ```
 > 3 - URL
 ```
-https://github.com/Yelloow-Dev/DiscordBlockChecker.git
+https://github.com/yello-w/DiscordBlockChecker.git
 ```
 
 ## Authors
