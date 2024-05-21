@@ -60,5 +60,5 @@ https://github.com/Yelloow-Dev/DiscordBlockChecker.git
 
 ## Authors
 
-- [@Yelloow-Dev](https://www.github.com/Yelloow-Dev)
+- [@yello-w](https://www.github.com/yello-w)
 
